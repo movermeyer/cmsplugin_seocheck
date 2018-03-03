@@ -2,9 +2,9 @@
 [![Coverage Status](https://coveralls.io/repos/creimers/cmsplugin_seocheck/badge.svg?branch=develop)](https://coveralls.io/r/creimers/cmsplugin_seocheck?branch=develop)
 [![Code Climate](https://codeclimate.com/github/creimers/cmsplugin_seocheck/badges/gpa.svg)](https://codeclimate.com/github/creimers/cmsplugin_seocheck)
 [![Requirements Status](https://requires.io/github/creimers/cmsplugin_seocheck/requirements.svg?branch=master)](https://requires.io/github/creimers/cmsplugin_seocheck/requirements/?branch=master)
-[![Latest Version](https://img.shields.io/pypi/v/cmsplugin_seocheck.svg
-[![Supported Python versions](https://img.shields.io/pypi/pyversions/cmsplugin_seocheck.svg
-[![Development Status](https://img.shields.io/pypi/status/cmsplugin_seocheck.svg
+[![Latest Version](https://img.shields.io/pypi/v/cmsplugin_seocheck.svg)](https://pypi.python.org/pypi/cmsplugin-seocheck/)
+[![Supported Python versions](https://img.shields.io/pypi/pyversions/cmsplugin_seocheck.svg)](https://pypi.python.org/pypi/cmsplugin-seocheck/)
+[![Development Status](https://img.shields.io/pypi/status/cmsplugin_seocheck.svg)](https://pypi.python.org/pypi/cmsplugin_seocheck/)
 # djangocms SEO check plugin
 
 A djangocms plugin to check SEO aspects of your page. Inspired by [yoast](https://yoast.com/) for wordpress.
